@@ -5,3 +5,11 @@ git pull - atualiza o repositório local com o remoto
 git commit -m "mensagem desejada" - cria um commit de mudanças para serem
 colocadas no repositório.
 git add - adiciona os arquivos para serem comitados.
+
+
+passos para enviar arquivos ao github:
+1) execute o git add .
+2) adicione uma mensagem informando as mudanças:
+git commit -m "adicionado recurso de mudança de fonte na página"
+3) submeta as mudanças:
+git push origin main
