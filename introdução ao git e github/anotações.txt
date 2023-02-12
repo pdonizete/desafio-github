@@ -1,0 +1,7 @@
+link apra baixar o git:
+https://git-scm.com
+Alguns comandos do git
+git pull - atualiza o repositório local com o remoto
+git commit -m "mensagem desejada" - cria um commit de mudanças para serem
+colocadas no repositório.
+git add - adiciona os arquivos para serem comitados.
